@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
@@ -15,7 +15,7 @@
     "lodash": "^4.17.11",
     "mongoose": "^5.7.5"
   },
-  "engines":{
+  "engines": {
     "node": "12.16.2"
   }
 }
